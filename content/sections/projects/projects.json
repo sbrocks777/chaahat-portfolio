@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ DOT NET",
+      "title": "Online Examination System using",
+      "description": "The \"Online Examination System\" is a robust web application developed using the .Net Framework, designed to streamline the process of conducting exams online. This system provides an efficient and user-friendly platform for educational institutions, training centers, and organizations to create, administer, and evaluate exams seamlessly.",
+      "tags": [".Net Framework", "MVC"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      }
+    },
+    {
+      "visible": true,
+      "category": "🧰 JavaScript",
+      "title": "Voice-Assistant News",
+      "description": "Build a Voice-Assistant News webapp using React.js and MongoDB involves several steps. Below is an outline of the process along with a high-level overview of the architecture and the key components you'll need.",
+      "tags": ["ReactJS", "NodeJS", "ExpressJS", "MongoDB"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      }
+    }
+  ],
+  "button": {
+    "visible": false,
+    "label": "Visit on Github",
+    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+  }
+}

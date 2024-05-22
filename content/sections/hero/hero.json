@@ -1,0 +1,22 @@
+{
+  "intro": "Hi",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Akansha Kumawat",
+  "subtitle": {
+    "prefix": "Junior ",
+    "highlight": "Software Developer",
+    "suffix": "."
+  },
+  "description": "A passionate developer with a Passion for Code and Creativity.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}

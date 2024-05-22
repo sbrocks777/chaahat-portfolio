@@ -1,0 +1,13 @@
+{
+  "name": "Akansha Kumawat",
+  "email": "akanksha15703@gmail.com",
+  "description": "If you’re passionate about tech, let’s connect! and don’t hesitate to reach out. Whether it’s discussing code, sharing ideas, or just geeking out over the latest tech trends, I’m all ears! 🤓",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}
